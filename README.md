@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Canned Cocktails é um programa exclusivo e gratuito de uma landing page de produto.
 
-- [Acesse o projeto finalizado, online](https://gileaderafael.github.io/starbucks-page/)
+- [Acesse o projeto finalizado, online](https://gileaderafael.github.io/cannedcocktails/)
 
 
 ## :memo: Licença
