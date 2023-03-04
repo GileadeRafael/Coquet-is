@@ -16,7 +16,7 @@ Também conhecidos como coquetéis prontos para beber ou RTD (que também inclue
 <br>
 
 <p align="center">
-  <img alt="Projeto Habits Tracker" src="https://uploaddeimagens.com.br/images/004/376/893/original/preview.jpg?1677888941" width="100%">
+  <img alt="Projeto Habits Tracker" src="https://github.com/GileadeRafael/cannedcocktails/blob/master/assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
